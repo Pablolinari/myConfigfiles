@@ -1,0 +1,21 @@
+import = [
+    "~/.config/alacritty/themes/themes/coolnight.toml"
+]
+
+[ env ]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 10
+padding.y = 10
+blur = true
+decorations = "Buttonless"
+opacity = 0.6
+[font]
+normal.family = "Cascadia Code"
+
+#regular
+size = 16
+
+#for video
+# size = 35.0
